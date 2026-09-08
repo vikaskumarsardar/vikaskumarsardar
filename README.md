@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Swapan%20(Vikas)%20Kumar%20Sardar&fontSize=32&subtext=Backend%20%26%20Full%20Stack%20Engineer%20(4%2B%20YOE)&subfontSize=16&fontColor=58a6ff&subFontColor=8b949e" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Swapan%20(Vikas)%20Kumar%20Sardar&fontSize=32&subtext=Senior%20Backend%20%26%20Systems%20Engineer&subfontSize=16&fontColor=58a6ff&subFontColor=8b949e" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/vikaskumarsardar">
-    <img src="https://img.shields.io/badge/Experience-4%2B_Years_Professional-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Specialization-Backend_%26_Distributed_Systems-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/vikaskumarsardar">
-    <img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-8a2be2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Domain-Observability_%26_Microservices-8a2be2?style=for-the-badge" />
   </a>
   <a href="mailto:ssardar385@gmail.com">
     <img src="https://img.shields.io/badge/Email-ssardar385%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -16,11 +16,11 @@
 
 ---
 
-### ⚡ Professional Summary
+### ⚡ Technical Summary
 
-Backend & Full Stack Engineer with **4+ years of professional experience** (April 2022 – Present) building scalable backend architectures, payment processing engines, microservices, and real-time systems. Experienced across:
-* **Microservices & Federation**: Designed modular GraphQL subgraphs with **Apollo Federation**, eliminating N+1 query bottlenecks via **DataLoader & Redis** (reducing response latency by **40%**).
-* **Fintech & Payment Systems**: Engineered idempotent payment engines, Stripe webhooks, Tap Payments integrations, ACH/ICL check settlement routines, and Keycloak OAuth 2.0 / RBAC permissions.
+Senior Backend & Full Stack Engineer specializing in high-throughput backend architectures, payment processing engines, microservices, and real-time observability tooling. Experienced across:
+* **Microservices & Federation**: Designed modular GraphQL subgraphs with **Apollo Federation**, eliminating N+1 query bottlenecks via **DataLoader & Redis** (reducing API response latency by **40%**).
+* **Fintech & Payment Platforms**: Engineered idempotent payment engines, Stripe webhooks, Tap Payments integrations, ACH/ICL check settlement routines, and Keycloak OAuth 2.0 / RBAC permissions.
 * **Real-Time & Location Engineering**: Built real-time order state machines and driver dispatch engines using **Socket.io**, **PostGIS geofencing**, and **Uber Direct APIs**.
 
 ---
@@ -54,7 +54,7 @@ Backend & Full Stack Engineer with **4+ years of professional experience** (Apri
 
 ### 🚀 Flagship Projects & Open-Source Showcase
 
-| Project | Tech Stack | Production & Architecture Highlights |
+| Project | Tech Stack | Architecture & Engineering Highlights |
 | :--- | :--- | :--- |
 | 🛡️ **[TraceGuard-Enterprise](https://github.com/vikaskumarsardar/TraceGuard-Enterprise)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![eBPF](https://img.shields.io/badge/-eBPF-black) ![OTLP](https://img.shields.io/badge/-OTLP-blue) | Zero-code eBPF-powered distributed tracing daemon correlating Linux kernel socket 5-tuples with application W3C headers. |
 | 🤖 **[forgeops-sre-platform](https://github.com/vikaskumarsardar/forgeops-sre-platform)** | ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=nextdotjs) ![Express](https://img.shields.io/badge/-Express-gray) ![K8s](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white) | Autonomous SRE Control Plane Platform detecting HTTP 500 spikes, parsing Loki logs, and running HITL patch verification. |
@@ -68,7 +68,6 @@ Backend & Full Stack Engineer with **4+ years of professional experience** (Apri
 ### 📊 Portfolio Metrics & Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B_Years-blue?style=for-the-badge&logo=briefcase&logoColor=white" />
   <img src="https://img.shields.io/badge/Public_Repositories-13-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Documentation_Coverage-100%25-success?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source_Licenses-MIT-orange?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
