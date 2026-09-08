@@ -9,8 +9,8 @@
   <a href="https://github.com/vikaskumarsardar">
     <img src="https://img.shields.io/badge/Domain-Financial_Charting_%26_Distributed_Systems-8a2be2?style=for-the-badge" />
   </a>
-  <a href="mailto:ssardar385@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ssardar385%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:swapankumarsardar73727@gmail.com">
+    <img src="https://img.shields.io/badge/Email-swapankumarsardar73727%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -80,5 +80,5 @@ Senior Full Stack & Backend Systems Engineer specializing in high-throughput bac
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/vikaskumarsardar">Swapan (Vikas) Kumar Sardar</a> | Contact: <a href="mailto:ssardar385@gmail.com">ssardar385@gmail.com</a> | <a href="https://linkedin.com/in/swapan-kumar-4073b7183">LinkedIn</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/vikaskumarsardar">Swapan (Vikas) Kumar Sardar</a> | Contact: <a href="mailto:swapankumarsardar73727@gmail.com">swapankumarsardar73727@gmail.com</a> | <a href="https://linkedin.com/in/swapan-kumar-4073b7183">LinkedIn</a></sub>
 </p>
