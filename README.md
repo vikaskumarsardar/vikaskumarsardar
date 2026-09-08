@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Specialization-Full_Stack_%26_Backend_Engineering-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/vikaskumarsardar">
-    <img src="https://img.shields.io/badge/Domain-Financial_Charting_%26_Distributed_Systems-8a2be2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Domain-Financial_Charting,_Distributed_Systems-8a2be2?style=for-the-badge" />
   </a>
   <a href="mailto:ssardar385@gmail.com">
     <img src="https://img.shields.io/badge/Email-ssardar385%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
