@@ -53,11 +53,12 @@ Passionate about building **high-throughput distributed systems**, **kernel-leve
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 Portfolio Metrics & Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikaskumarsardar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskumarsardar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Public_Repositories-14-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Documentation_Coverage-100%25-success?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source_Licenses-MIT-orange?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
 </p>
 
 ---
