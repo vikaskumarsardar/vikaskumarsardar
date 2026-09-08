@@ -26,29 +26,28 @@ Senior Full Stack & Backend Systems Engineer specializing in high-throughput bac
 
 ---
 
-### 🛠️ Languages & Technical Stack
+### 🛠️ Core Production Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe_API-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 ---
@@ -57,7 +56,7 @@ Senior Full Stack & Backend Systems Engineer specializing in high-throughput bac
 
 | Project | Tech Stack | Architecture & Engineering Highlights |
 | :--- | :--- | :--- |
-| 🛡️ **[TraceGuard-Enterprise](https://github.com/vikaskumarsardar/TraceGuard-Enterprise)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![eBPF](https://img.shields.io/badge/-eBPF-black) ![OTLP](https://img.shields.io/badge/-OTLP-blue) | Zero-code eBPF-powered distributed tracing daemon correlating Linux kernel socket 5-tuples with application W3C headers. |
+| 🛡️ **[TraceGuard-Enterprise](https://github.com/vikaskumarsardar/TraceGuard-Enterprise)** | ![eBPF](https://img.shields.io/badge/-eBPF-black) ![OTLP](https://img.shields.io/badge/-OTLP-blue) | Zero-code eBPF-powered distributed tracing daemon correlating Linux kernel socket 5-tuples with application W3C headers (experimental/testing). |
 | 🤖 **[forgeops-sre-platform](https://github.com/vikaskumarsardar/forgeops-sre-platform)** | ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=nextdotjs) ![Express](https://img.shields.io/badge/-Express-gray) ![K8s](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white) | Autonomous SRE Control Plane Platform detecting HTTP 500 spikes, parsing Loki logs, and running HITL patch verification. |
 | ⚡ **[cloudpulse-telemetry-engine](https://github.com/vikaskumarsardar/cloudpulse-telemetry-engine)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?logo=typescript&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka) ![CDC](https://img.shields.io/badge/-Debezium-005577) | High-throughput telemetry engine monitoring PostgreSQL CDC outbox pipelines & SLA percentiles with 0ms user overhead. |
 | 💬 **[socket-io-scaled-with-integrity](https://github.com/vikaskumarsardar/socket-io-scaled-with-integrity)** | ![Node.js](https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white) | Distributed WebSocket architecture with outbox integrity, Debezium CDC hooks, and Helm 3 HPA manifests. |
